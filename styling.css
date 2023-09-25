@@ -1,0 +1,80 @@
+
+body{
+    background-color: black;
+    color: white
+
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+    background-color: grey;
+    border-radius: 20px;
+}
+
+.title{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 60px;
+
+}
+.title span{
+    color: red;
+}
+
+.img-div{
+    text-align: center;
+}
+
+.img-div img{
+    width: 400px;
+    border-radius: 40px;
+    box-shadow: 5px 5px 500px red; 
+}
+
+.par{
+
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    font-size: 1.5rem;
+    margin-top: 20px;
+}
+
+.title2{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: red;
+    margin-left: 10%;
+
+
+}
+
+ul{
+    width: 80%;
+    margin: auto;
+    font-size: 1.5rem;
+    line-height:  3rem;
+}
+
+.footer{
+    text-align: center;
+    font-size: 2rem;
+    padding: 2rem;
+}
+
+.footer a{
+    color: white;
+    text-decoration: none;
+    border: 2px solid yellowgreen;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.footer:hover{
+    background-color: black;
+    color: red;
+
+
+}
+
+
